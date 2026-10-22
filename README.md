@@ -32,3 +32,15 @@ application and the requirements.txt file.
 I learned how to use AI to generate Python code, install
 dependencies, run a Flask application locally, and prepare
 a project for GitHub.
+
+Project Idea — AI Business Assistant
+
+If I had an evening instead of fifteen minutes, I would start building AI Business Assistant, a web application designed to help small businesses manage customers and enquiries more efficiently.
+
+My idea is to combine a modern, attractive website with a simple CRM system and automated workflows. Customers would be able to submit enquiries through an online form, while business owners could manage requests through a private dashboard.
+
+The application would store customer information, track enquiry statuses, and help owners organise their daily tasks. I would also like to introduce automated notifications and reminders so that important customer requests are not forgotten.
+
+In the future, I would explore AI features that could help categorise enquiries and suggest responses. The system could be adapted for different types of small businesses, such as beauty salons, cleaning companies, or flower shops.
+
+My goal is to develop a practical, user-friendly application that could eventually support my freelance work.
